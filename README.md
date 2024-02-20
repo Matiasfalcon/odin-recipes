@@ -1,2 +1,1 @@
-# odin-recipes
-odin recipes project.
+### First Odin project, I will apply basic knowledge of HTML and CSS
